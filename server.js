@@ -1,4 +1,4 @@
-// server.js
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
@@ -11,8 +11,6 @@ const DATA_FILE = path.join(__dirname, 'resume-data.json');
 
 app.use(cors());
 app.use(bodyParser.json());
-
-// server.js
 
 app.get('/api/resume', (req, res) => {
 
