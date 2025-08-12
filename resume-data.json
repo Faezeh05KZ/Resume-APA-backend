@@ -1,0 +1,62 @@
+{
+  "personalInfo": 
+  {
+    "name": "Faezeh Keshavarz",
+    "profilePicture": "https://placehold.co/150x150/5D54A4/ffffff?text=FK",
+    "birthDate": "2005-05-06",
+    "title": "Security & Network Intern",
+    "bio": "A curious and interested student in the world of network security, infrastructure, and cyber defense. I am looking to learn in-depth network concepts, identify vulnerabilities, and gain practical experience in real-world environments.",
+    "contact": {
+      "email": "keshavarzfaezeh85@gmail.com",
+      "phone": "+98 903 436 9726",
+      "linkedin": "https://www.linkedin.com/in/faezeh-keshavarz-7b715835a/",
+      "github": "https://github.com/Faezeh05KZ"
+    }
+  },
+
+  "skills": 
+  [
+    { "name": "Network Concepts (TCP/IP, OSI)", "level": "Intermediate", "value": 75 },
+    { "name": "Linux Administration", "level": "Basic", "value": 20 },
+    { "name": "Python", "level": "Basic", "value": 60 },
+    { "name": "Wireshark", "level": "Basic", "value": 30 },
+    { "name": "C++", "level": "Intermediate", "value": 70 },
+    { "name": "Git & GitHub", "level": "Basic", "value": 40 }
+  ],
+
+  "education": 
+  [
+    {
+  
+      "institution": "BuAlisina University of Hamedan",
+      "degree": "Bachelor's Degree in Computer Engineering",
+      "status": "in progress",
+      "description": "Focus on basic networking, linux, and algorithms."
+    }
+  ],
+
+  "experience": 
+  [
+    {
+      "company": "APA center of BuAliSina University",
+      "role": "Intern",
+      "startYear": "Summer1403",
+      "endYear": "in progress",
+      "description": "Familiarity with network traffic analysis tools, and working with the Linux operating system."
+    }
+  ],
+
+  "achievements": 
+  [
+    { "title": "CompTIA Network+", "issuer": "Learnfiles Academy", "date": "2024", "link": "#" },
+    { "title": "Python", "issuer": "مجتمع فنی تهران", "date": "2024", "link": "#" }
+  ],
+
+  "interests/": 
+  [
+    "Cloud Security",
+    "CTF Competitions",
+    "Computer networks",
+    "Photography"
+  ]
+}

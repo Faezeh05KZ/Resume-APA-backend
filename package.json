@@ -1,0 +1,17 @@
+{
+  "name": "myresumeproject",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000e\u0000s\u0000u\u0000m\u0000e\u0000-\u0000A\u0000P\u0000A\u0000\r\u0000 \u0000",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
